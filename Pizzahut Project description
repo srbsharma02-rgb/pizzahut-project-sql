@@ -1,0 +1,30 @@
+# Pizza Hut Sales Analysis Using SQL Server
+
+### Project Overview
+An end-to-end SQL analysis project exploring Pizza Hut sales data through 13 business questions to understand sales performance, product demand, and revenue contribution.
+
+### Business Objectives
+- Analyse total orders and sales revenue.
+- Identify popular pizza types and sizes.
+- Evaluate category-wise product demand.
+- Understand hourly ordering patterns.
+- Identify top revenue-generating products.
+- Analyse revenue contribution and cumulative sales trends.
+
+### SQL Concepts Used
+- INNER JOIN
+- GROUP BY and ORDER BY
+- Aggregate Functions (SUM, COUNT, AVG)
+- Common Table Expressions (CTEs)
+- Window Functions
+- DENSE_RANK
+- DATEPART
+
+### Business Value
+The analysis supports data-driven decisions around product promotion, menu planning, inventory management, operational efficiency, and revenue improvement.
+
+### Tools
+**Microsoft SQL Server | SQL Server Management Studio (SSMS)**
+
+### Project Outcome
+Demonstrates the practical application of SQL in converting transactional sales data into business-focused analysis and actionable recommendations.
